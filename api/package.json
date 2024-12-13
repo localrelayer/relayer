@@ -70,7 +70,7 @@
     "kue": "0.11.6",
     "module-alias": "2.1.0",
     "moment": "2.23.0",
-    "mongoose": "5.4.0",
+    "mongoose": "5.7.5",
     "ramda": "0.26.1",
     "redis": "2.8.0",
     "supertest": "3.3.0",
